@@ -1,1 +1,1 @@
-africa
+africa=yuganda
